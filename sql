@@ -1,4 +1,4 @@
-o
+
 
 WITH QuestionScores AS
 (
